@@ -1,5 +1,7 @@
 # Create neochannels to detect cropmarks
 
+[![DOI](https://zenodo.org/badge/634413592.svg)](https://zenodo.org/badge/latestdoi/634413592)
+
 The workflow is divided in two parts:
 
 1. Process WV3 images
