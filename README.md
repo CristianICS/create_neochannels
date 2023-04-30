@@ -1,6 +1,6 @@
 # Create neochannels to detect cropmarks
 
-The workflow is divided between two parts:
+The workflow is divided in two parts:
 
 1. Process WV3 images
 2. Apply the script to compute neochannels
